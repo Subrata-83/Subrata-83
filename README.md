@@ -76,18 +76,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Subrata-83&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrata-83&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -103,16 +91,6 @@
 <div align="center">
 
 [![Subrata's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Subrata-83&theme=tokyo-night)](https://github.com/Subrata-83)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Subrata-83&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
