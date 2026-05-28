@@ -45,28 +45,22 @@
 </div>
 
 ---
-
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Subrata-83&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Subrata-83&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subrata-83&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
-
----
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Subrata-83&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
+</p>
 
 # 📈 Contribution Graph
 
@@ -80,11 +74,11 @@
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Subrata-83&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Subrata-83&theme=algolia&no-frame=true"/>
 
-</div>
+</p>
 
 ---
 
